@@ -1,1 +1,9 @@
-NOTE:- You can change the path of the google drive directory mentioned here. Please do not keep the same path
+NOTE:- In the Google Colab file code given here:
+
+# Provide the path to the folder containing PDF files
+# Provide the path to the folder containing PDF files in Google Drive
+pdf_folder_path = '/content/drive/My Drive/Colab Notebooks/Books/files'
+
+
+You can change the path of the google drive directory according to your convenience. Please do not keep the same path. 
+The above code snippet belongs to the pdf_based_Chatbot.ipynb file given in this directory
